@@ -1,4 +1,4 @@
-# Fundamentals of Astrodynamics, by Roger R. Bate, Donald D. Mueller, and Jerry E. White
+# Fundamentals of Astrodynamics
 
 Here I will be going through the book _"**Fundamentals of Astrodynamics**, by Roger R. Bate, Donald D. Mueller, and Jerry E. White"_ and posting my solution to the exercises in each chapter require some code/that I find interesting. Most likely, I will try to do as many problems as I can per chapter. For starters, I will be solving them using Python (Jupyter Notebooks), but this may change as I go along the book or I find a better format to do it. 
 
